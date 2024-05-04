@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Button_input.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Crystal_oscillator.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Fan_driver.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=LCD_Interface.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Power_supply.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=STM32.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Thermocouple_interface.SchDoc|SheetNumber=2
