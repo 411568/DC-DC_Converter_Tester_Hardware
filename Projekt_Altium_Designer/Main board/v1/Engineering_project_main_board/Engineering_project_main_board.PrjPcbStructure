@@ -1,8 +1,9 @@
-Record=TopLevelDocument|FileName=Button_input.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Crystal_oscillator.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Fan_driver.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=LCD_Interface.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Power_supply.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=STM32.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=Button_input.SchDoc|FileName=Thermocouple_interface.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=RS485.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Button_input.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Button_input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Thermocouple_interface.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Thermocouple_interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Fan_driver.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Fan_driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Crystal_oscillator.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=LCD_Interface.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power_supply.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=STM32.SchDoc|SheetNumber=9
