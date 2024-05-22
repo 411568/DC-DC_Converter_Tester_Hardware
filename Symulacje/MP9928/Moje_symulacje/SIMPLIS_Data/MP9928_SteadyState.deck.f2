@@ -1,0 +1,19 @@
+$$$ 1   76 12    simplis  DATA FOR PLOTTING,  Wed May 22 20:23:11 2024     
+INPUT FILE: C:/Users/User/Desktop/Engineering project hardware/DC-DC_Converter_Tester_Hardware/Symulacje/MP9928/Moje_symulacje/SIMPLIS_Data/MP9928_SteadyState.deck
+Small-Signal AC Analysis
+76 DATA PTS                   
+12 VARIABLES                                      
+0   FREQUENCY
+1   I(V$IPROBE11#P).REAL
+2   I(V$IPROBE11#P).IMAG
+3   I(V$IPROBE9#P).REAL
+4   I(V$IPROBE9#P).IMAG
+5   V(30).REAL
+6   V(30).IMAG
+7   V(28).REAL
+8   V(28).IMAG
+9   V(20).REAL
+10  V(20).IMAG
+11  V(25).REAL
+12  V(25).IMAG
+

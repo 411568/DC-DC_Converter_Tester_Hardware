@@ -1,0 +1,13 @@
+$$$ 1 12682 6    simplis  DATA FOR PLOTTING,  Wed May 22 20:23:13 2024     
+INPUT FILE: C:/Users/User/Desktop/Engineering project hardware/DC-DC_Converter_Tester_Hardware/Symulacje/MP9928/Moje_symulacje/SIMPLIS_Data/MP9928_SteadyState.deck
+Transient Analysis
+12682 DATA PTS                
+6 VARIABLES                                       
+0   TIME
+1   I(V$IPROBE11#P)
+2   I(V$IPROBE9#P)
+3   V(30)
+4   V(28)
+5   V(20)
+6   V(25)
+
