@@ -188,6 +188,40 @@ GenerateClassCluster=0
 DocumentUniqueId=MINZCYGM
 
 [Document9]
+DocumentPath=MAX6675\SnapEDApcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document10]
+DocumentPath=SO-8\SO-8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HSXGYLQL
+
+[Document11]
 DocumentPath=1066\BAT_1066.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +238,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVMWVGHS
 
-[Document10]
+[Document12]
+DocumentPath=MAX6675\SnapEDAsch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document13]
+DocumentPath=SO-8\SO-8.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZHSPZKBW
+
+[Document14]
 DocumentPath=1066\1066.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUWXKUAX
 
-[Document11]
+[Document15]
 DocumentPath=Schematic_library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNRWVSAE
 
-[Document12]
+[Document16]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BWTZLAHO
 
-[Document13]
+[Document17]
 DocumentPath=STM32_Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAVKZBWZ
 
-[Document14]
+[Document18]
 DocumentPath=1066.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document19]
 DocumentPath=SO-8.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document20]
 DocumentPath=SIP750W46P254L1400H1010Q3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document21]
 DocumentPath=PcbLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,7 +408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGFHWECY
 
-[Document18]
+[Document22]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -357,8 +425,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCRCXPML
 
-[Document19]
+[Document23]
 DocumentPath=4layer-1oz-jlc2313-1.6mm.stackup
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=MAX6675.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
