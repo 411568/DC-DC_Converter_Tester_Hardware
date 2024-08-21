@@ -1,0 +1,15 @@
+Added Component: Designator=J*1(MTJ-880X1)
+Added Component: Designator=U2(SIP750W46P254L1400H1010Q3)
+Added Pin To Net: NetName=NetD1_1 Pin=J*1-4
+Added Pin To Net: NetName=NetD2_2 Pin=J*1-5
+Added Pin To Net: NetName=GND Pin=J*1-6
+Added Pin To Net: NetName=VIN_MP9928 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component J*1 MTJ-880X1
