@@ -423,6 +423,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\..\..\..\AppData\Local\Temp\Project Outputs for Engineering_project_DC_power_supply\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

@@ -1,0 +1,553 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Projekt_Altium_Designer\DC converter board\v1\Engineering_project_DC_power_supply\PCB1.PcbDoc
+Date     : 9/5/2024
+Time     : 6:06:58 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C19-1(2491.724mil,3890mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.311mil < 40mil) Between Pad C20-1(3196.553mil,4070mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C21-1(3038.276mil,4000mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (24.587mil < 40mil) Between Pad C24-1(3541.724mil,4090mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.854mil < 40mil) Between Pad C25-1(3541.724mil,4260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.844mil < 40mil) Between Pad C25-1(3541.724mil,4260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.62mil < 40mil) Between Pad C25-2(3478.276mil,4260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C26-1(3541.724mil,4520mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.74mil < 40mil) Between Pad C26-1(3541.724mil,4520mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.766mil < 40mil) Between Pad C27-2(3860mil,4381.724mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.837mil < 40mil) Between Pad C27-2(3860mil,4381.724mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C28-1(3541.724mil,4350mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.523mil < 40mil) Between Pad C28-1(3541.724mil,4350mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.63mil < 40mil) Between Pad C28-1(3541.724mil,4350mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.789mil < 40mil) Between Pad C28-2(3478.276mil,4350mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C29-1(3541.724mil,4430mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.44mil < 40mil) Between Pad C29-1(3541.724mil,4430mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.789mil < 40mil) Between Pad C29-1(3541.724mil,4430mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.03mil < 40mil) Between Pad C29-1(3541.724mil,4430mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (22.863mil < 40mil) Between Pad C31-1(6140mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.576mil < 40mil) Between Pad C31-1(6140mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (17.766mil < 40mil) Between Pad C31-2(6203.447mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.311mil < 40mil) Between Pad C31-2(6203.447mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C32-1(6298.276mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.201mil < 40mil) Between Pad C32-1(6298.276mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.396mil < 40mil) Between Pad C33-2(5690mil,2531.724mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.204mil < 40mil) Between Pad C33-2(5690mil,2531.724mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C35-2(5690mil,2188.276mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C35-2(5690mil,2188.276mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (24.036mil < 40mil) Between Pad C35-2(5690mil,2188.276mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.025mil < 40mil) Between Pad C36-2(5600mil,2179.646mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C38-1(5891.724mil,2260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C38-2(5828.276mil,2260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C38-2(5828.276mil,2260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.701mil < 40mil) Between Pad C38-2(5828.276mil,2260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.204mil < 40mil) Between Pad C39-1(2570mil,3383.447mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (20.437mil < 40mil) Between Pad C39-2(2570mil,3320mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.756mil < 40mil) Between Pad C39-2(2570mil,3320mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.553mil < 40mil) Between Pad DS4-1(5590mil,4711.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.077mil < 40mil) Between Pad J*1-4(6313.81mil,1658.162mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.077mil < 40mil) Between Pad J*1-6(6313.81mil,1758.162mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (29.922mil < 40mil) Between Pad J6-1(5220mil,1310mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.191mil < 40mil) Between Pad J6-3(5120mil,1310mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.191mil < 40mil) Between Pad J6-6(5020mil,1210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (33.978mil < 40mil) Between Pad Q2-3(2875mil,3573.11mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.259mil < 40mil) Between Pad Q4-2(5744.803mil,3130mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.964mil < 40mil) Between Pad Q4-2(5744.803mil,3130mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.257mil < 40mil) Between Pad R1-1(6180mil,1582.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.444mil < 40mil) Between Pad R11-1(3227.52mil,4440mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.467mil < 40mil) Between Pad R11-2(3292.48mil,4440mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.518mil < 40mil) Between Pad R13-2(2902.48mil,4270mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.425mil < 40mil) Between Pad R14-2(2902.48mil,4340mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.425mil < 40mil) Between Pad R15-2(2902.48mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.425mil < 40mil) Between Pad R15-2(2902.48mil,4200mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.228mil < 40mil) Between Pad R16-2(3124.961mil,4440mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.518mil < 40mil) Between Pad R17-1(2902.48mil,4410mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.103mil < 40mil) Between Pad R17-1(2902.48mil,4410mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (17.66mil < 40mil) Between Pad R18-1(3380mil,4072.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.014mil < 40mil) Between Pad R18-2(3380mil,4007.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R19-1(2902.48mil,4480mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R19-1(2902.48mil,4480mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.472mil < 40mil) Between Pad R20-1(3940mil,4382.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.228mil < 40mil) Between Pad R20-1(3940mil,4382.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R2-1(6180mil,1712.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.615mil < 40mil) Between Pad R2-1(6180mil,1712.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.615mil < 40mil) Between Pad R2-1(6180mil,1712.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R21-2(3542.48mil,4600mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.292mil < 40mil) Between Pad R21-2(3542.48mil,4600mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R2-2(6180mil,1647.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.198mil < 40mil) Between Pad R22-2(3860mil,4512.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R23-1(3780mil,4447.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.97mil < 40mil) Between Pad R23-2(3780mil,4512.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R23-2(3780mil,4512.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R23-2(3780mil,4512.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.613mil < 40mil) Between Pad R23-2(3780mil,4512.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R25-1(3610mil,4357.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R25-2(3610mil,4422.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.63mil < 40mil) Between Pad R25-2(3610mil,4422.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R26-1(3860mil,4632.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.634mil < 40mil) Between Pad R26-1(3860mil,4632.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.83mil < 40mil) Between Pad R26-1(3860mil,4632.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.97mil < 40mil) Between Pad R29-1(6120mil,4287.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R31-1(6327.52mil,3790mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R31-2(6392.48mil,3790mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R32-2(6187.52mil,3790mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.203mil < 40mil) Between Pad R32-2(6187.52mil,3790mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R35-2(6210mil,2997.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R37-2(6210mil,2717.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.615mil < 40mil) Between Pad R37-2(6210mil,2717.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.28mil < 40mil) Between Pad R38-1(5707.52mil,3280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R38-2(5772.48mil,3280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.174mil < 40mil) Between Pad R38-2(5772.48mil,3280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.086mil < 40mil) Between Pad R39-1(5642.48mil,3280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R42-1(5742.48mil,3060mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.228mil < 40mil) Between Pad R42-1(5742.48mil,3060mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R42-2(5677.52mil,3060mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R42-2(5677.52mil,3060mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.456mil < 40mil) Between Pad R42-2(5677.52mil,3060mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R44-1(4210mil,1272.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.122mil < 40mil) Between Pad R44-1(4210mil,1272.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R44-2(4210mil,1207.52mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R45-1(2890mil,1335.039mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.952mil < 40mil) Between Pad R46-1(4540mil,1332.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.372mil < 40mil) Between Pad R46-1(4540mil,1332.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R47-1(4450mil,1332.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R47-1(4450mil,1332.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.825mil < 40mil) Between Pad R48-1(6020mil,2432.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R50-1(5837.52mil,2540mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R50-2(5902.48mil,2540mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.043mil < 40mil) Between Pad R50-2(5902.48mil,2540mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.228mil < 40mil) Between Pad R51-1(2797.52mil,3430mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.321mil < 40mil) Between Pad R52-1(2697.52mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R52-2(2762.48mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.228mil < 40mil) Between Pad R52-2(2762.48mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (19.215mil < 40mil) Between Pad R53-1(2644.961mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (20.827mil < 40mil) Between Pad R53-1(2644.961mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R53-1(2644.961mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.722mil < 40mil) Between Pad R53-2(2580mil,3180mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (30.822mil < 40mil) Between Pad R54-2(2810mil,3362.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R57-2(3470mil,4012.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.616mil < 40mil) Between Pad R57-2(3470mil,4012.48mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (21.165mil < 40mil) Between Pad R9-1(3102.48mil,4080mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.162mil < 40mil) Between Pad R9-1(3102.48mil,4080mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.34mil < 40mil) Between Pad R9-2(3037.52mil,4080mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (29.254mil < 40mil) Between Pad U1-3(5642.953mil,1665mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.419mil < 40mil) Between Pad U5-10(3290mil,4382.362mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-11(3062.835mil,4382.362mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-12(3062.835mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.507mil < 40mil) Between Pad U5-12(3062.835mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.703mil < 40mil) Between Pad U5-12(3062.835mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-12(3062.835mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-13(3062.835mil,4331.181mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-14(3062.835mil,4305.591mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-15(3062.835mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-15(3062.835mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-15(3062.835mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-16(3062.835mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-16(3062.835mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-16(3062.835mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-17(3062.835mil,4228.819mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-17(3062.835mil,4228.819mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-18(3062.835mil,4203.228mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-18(3062.835mil,4203.228mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-19(3062.835mil,4177.638mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.507mil < 40mil) Between Pad U5-19(3062.835mil,4177.638mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-19(3062.835mil,4177.638mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.507mil < 40mil) Between Pad U5-2(3290mil,4177.638mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-2(3290mil,4177.638mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-20(3062.835mil,4152.047mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-20(3062.835mil,4152.047mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-3(3290mil,4203.228mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-3(3290mil,4203.228mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-4(3290mil,4228.819mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-4(3290mil,4228.819mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-5(3290mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-5(3290mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-5(3290mil,4254.409mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-6(3290mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-6(3290mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-6(3290mil,4280mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-7(3290mil,4305.591mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-7(3290mil,4305.591mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.101mil < 40mil) Between Pad U5-8(3290mil,4331.181mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-8(3290mil,4331.181mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.507mil < 40mil) Between Pad U5-9(3290mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.633mil < 40mil) Between Pad U5-9(3290mil,4356.772mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (14.406mil < 40mil) Between Pad U6-1(3932.598mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (15.834mil < 40mil) Between Pad U6-1(3932.598mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (15.934mil < 40mil) Between Pad U6-2(3970mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (19.904mil < 40mil) Between Pad U6-2(3970mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.317mil < 40mil) Between Pad U6-2(3970mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (14.406mil < 40mil) Between Pad U6-3(4007.401mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (15.833mil < 40mil) Between Pad U6-3(4007.401mil,4575.866mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-1(6165mil,3882.716mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.718mil < 40mil) Between Pad U7-1(6165mil,3882.716mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.559mil < 40mil) Between Pad U7-2(6215mil,3882.716mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-3(6265mil,3882.716mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-5(6315mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.193mil < 40mil) Between Pad U7-5(6315mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-6(6265mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.455mil < 40mil) Between Pad U7-6(6265mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-7(6215mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.192mil < 40mil) Between Pad U7-7(6215mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.977mil < 40mil) Between Pad U7-8(6165mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.663mil < 40mil) Between Pad U7-8(6165mil,4097.283mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-12(5345.748mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-13(5314.252mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-13(5314.252mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-14(5282.756mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-14(5282.756mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (18.715mil < 40mil) Between Pad U8-15(5251.26mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-15(5251.26mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-15(5251.26mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-16(5219.764mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-16(5219.764mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-17(5163.661mil,2550.236mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-17(5163.661mil,2550.236mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.275mil < 40mil) Between Pad U8-18(5163.661mil,2518.74mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-18(5163.661mil,2518.74mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-19(5163.661mil,2487.244mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-2(5496.339mil,2361.26mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-20(5163.661mil,2455.748mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-20(5163.661mil,2455.748mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-21(5163.661mil,2424.252mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.779mil < 40mil) Between Pad U8-23(5163.661mil,2361.26mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-26(5251.26mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-27(5282.756mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-28(5314.252mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-29(5345.748mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-3(5496.339mil,2392.756mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-3(5496.339mil,2392.756mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.274mil < 40mil) Between Pad U8-31(5408.74mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-31(5408.74mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-32(5440.236mil,2273.661mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-4(5496.339mil,2424.252mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-5(5496.339mil,2455.748mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-5(5496.339mil,2455.748mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-6(5496.339mil,2487.244mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-6(5496.339mil,2487.244mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-6(5496.339mil,2487.244mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.881mil < 40mil) Between Pad U8-7(5496.339mil,2518.74mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.525mil < 40mil) Between Pad U8-8(5496.339mil,2550.236mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.183mil < 40mil) Between Pad U8-9(5440.236mil,2606.339mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.256mil < 40mil) Between Pad U9-1(2660mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.041mil < 40mil) Between Pad U9-1(2660mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.835mil < 40mil) Between Pad U9-2(2685.591mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.517mil < 40mil) Between Pad U9-2(2685.591mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (15.907mil < 40mil) Between Pad U9-3(2711.181mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.645mil < 40mil) Between Pad U9-4(2736.772mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.126mil < 40mil) Between Pad U9-4(2736.772mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.517mil < 40mil) Between Pad U9-4(2736.772mil,3260mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.501mil < 40mil) Between Pad U9-7(2685.591mil,3427.323mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (25.501mil < 40mil) Between Pad U9-8(2660mil,3427.323mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.325mil < 40mil) Between Pad Y1-1(5910mil,2446.614mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.679mil < 40mil) Between Pad Y1-1(5910mil,2446.614mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.087mil < 40mil) Between Pad Y1-2(5810mil,2446.614mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.016mil < 40mil) Between Pad Y1-2(5810mil,2446.614mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.191mil < 40mil) Between Pad Y1-3(5810mil,2360mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.333mil < 40mil) Between Pad Y1-3(5810mil,2360mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (32.247mil < 40mil) Between Region (0 hole(s)) Bottom Layer And Track (3040mil,4155mil)(3343.702mil,3851.298mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35.249mil < 40mil) Between Region (0 hole(s)) Bottom Layer And Track (3310mil,4005mil)(3395mil,4090mil) on Bottom Layer 
+   Violation between Clearance Constraint: (36.465mil < 40mil) Between Region (0 hole(s)) Bottom Layer And Track (5220mil,1210mil)(5330mil,1210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (36.391mil < 40mil) Between Region (0 hole(s)) Bottom Layer And Via (3310mil,4005mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (10.26mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.579mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.579mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.579mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.579mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.579mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (11.458mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (12.324mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (16.4mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (17.67mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (20.557mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (26.845mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (27.723mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.545mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (28.955mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (29.037mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (29.037mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (29.053mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.736mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.736mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.736mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.736mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.736mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.795mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.11mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.395mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (33.422mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (34.186mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (35.578mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.061mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.17mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.17mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.17mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (36.17mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.207mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (37.225mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.045mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.104mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.219mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (38.975mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (39.529mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.716mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.716mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.716mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.716mil < 40mil) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (31.119mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2490mil,3320mil)(2570mil,3320mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2491.724mil,3890mil)(2560mil,3890mil) on Top Layer 
+   Violation between Clearance Constraint: (30.445mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2520mil,3430mil)(2566.553mil,3383.447mil) on Top Layer 
+   Violation between Clearance Constraint: (30.445mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2566.553mil,3383.447mil)(2570mil,3383.447mil) on Top Layer 
+   Violation between Clearance Constraint: (39.936mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2570mil,3383.447mil)(2613.875mil,3427.323mil) on Top Layer 
+   Violation between Clearance Constraint: (26.86mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2613.875mil,3427.323mil)(2660mil,3427.323mil) on Top Layer 
+   Violation between Clearance Constraint: (25.947mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3030.039mil)(2644.961mil,3180mil) on Top Layer 
+   Violation between Clearance Constraint: (35.872mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3030.039mil)(2644.961mil,3180mil) on Top Layer 
+   Violation between Clearance Constraint: (38.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3030.039mil)(2644.961mil,3180mil) on Top Layer 
+   Violation between Clearance Constraint: (30.059mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3180mil)(2644.961mil,3214.961mil) on Top Layer 
+   Violation between Clearance Constraint: (37.132mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3180mil)(2644.961mil,3214.961mil) on Top Layer 
+   Violation between Clearance Constraint: (23.712mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2644.961mil,3214.961mil)(2660mil,3230mil) on Top Layer 
+   Violation between Clearance Constraint: (23.712mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2660mil,3230mil)(2660mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (20.546mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2685.591mil,3234.409mil)(2685.591mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (30.917mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2685.591mil,3234.409mil)(2685.591mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (30.917mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2685.591mil,3234.409mil)(2697.52mil,3222.48mil) on Top Layer 
+   Violation between Clearance Constraint: (26.86mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2685.591mil,3427.323mil)(2711.181mil,3427.323mil) on Top Layer 
+   Violation between Clearance Constraint: (36.553mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2697.52mil,3180mil)(2697.52mil,3222.48mil) on Top Layer 
+   Violation between Clearance Constraint: (31.535mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2711.181mil,3260mil)(2711.181mil,3291.181mil) on Top Layer 
+   Violation between Clearance Constraint: (20.546mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2736.772mil,3260mil)(2760mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (29.135mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2736.772mil,3260mil)(2760mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (34.75mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2736.772mil,3260mil)(2760mil,3260mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2762.48mil,3122.48mil)(2762.48mil,3180mil) on Top Layer 
+   Violation between Clearance Constraint: (29.998mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2825mil,3573.11mil)(2875mil,3573.11mil) on Top Layer 
+   Violation between Clearance Constraint: (16.803mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2925mil,4410mil)(3003.819mil,4331.181mil) on Top Layer 
+   Violation between Clearance Constraint: (33.158mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2925mil,4410mil)(3003.819mil,4331.181mil) on Top Layer 
+   Violation between Clearance Constraint: (34.283mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2930mil,4200mil)(2958.819mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (33.8mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2930mil,4340mil)(2964.41mil,4305.591mil) on Top Layer 
+   Violation between Clearance Constraint: (29.619mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2940mil,4130mil)(2987.638mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2958.819mil,4228.819mil)(3062.835mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (34.283mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2958.819mil,4228.819mil)(3062.835mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2958.819mil,4228.819mil)(3062.835mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2960mil,4280mil)(3062.835mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2960mil,4280mil)(3062.835mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2960mil,4280mil)(3062.835mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2964.41mil,4305.591mil)(3062.835mil,4305.591mil) on Top Layer 
+   Violation between Clearance Constraint: (33.83mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2964.41mil,4305.591mil)(3062.835mil,4305.591mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2973.228mil,4203.228mil)(3062.835mil,4203.228mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2973.228mil,4203.228mil)(3062.835mil,4203.228mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2974.138mil,3935.862mil)(3038.276mil,4000mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2975mil,4410mil)(3028.228mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (28.102mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2975mil,4410mil)(3028.228mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2975mil,4410mil)(3028.228mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (39.201mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2975mil,4410mil)(3028.228mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2987.638mil,4177.638mil)(3062.835mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (26.078mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2987.638mil,4177.638mil)(3062.835mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (2987.638mil,4177.638mil)(3062.835mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3003.819mil,4331.181mil)(3062.835mil,4331.181mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3028.228mil,4356.772mil)(3062.835mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (26.078mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3028.228mil,4356.772mil)(3062.835mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (34.274mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3028.228mil,4356.772mil)(3062.835mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3028.228mil,4356.772mil)(3062.835mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3062.835mil,4117.835mil)(3062.835mil,4152.047mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3062.835mil,4254.409mil)(3163.622mil,4254.409mil) on Top Layer 
+   Violation between Clearance Constraint: (32.552mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3101.724mil,4000mil)(3101.724mil,4079.243mil) on Top Layer 
+   Violation between Clearance Constraint: (31.696mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3124.961mil,4440mil)(3170mil,4440mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3189.213mil,4254.409mil)(3290mil,4254.409mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3189.213mil,4254.409mil)(3290mil,4254.409mil) on Top Layer 
+   Violation between Clearance Constraint: (31.542mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3220mil,3930mil)(3220mil,3990mil) on Top Layer 
+   Violation between Clearance Constraint: (28.118mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3220mil,3990mil)(3260mil,4030mil) on Top Layer 
+   Violation between Clearance Constraint: (37.497mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3260mil,4030mil)(3260mil,4060mil) on Top Layer 
+   Violation between Clearance Constraint: (26.194mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3275mil,3970mil)(3310mil,4005mil) on Top Layer 
+   Violation between Clearance Constraint: (38.462mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3275mil,3970mil)(3310mil,4005mil) on Top Layer 
+   Violation between Clearance Constraint: (26.078mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4177.638mil)(3327.362mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4177.638mil)(3327.362mil,4177.638mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4203.228mil)(3365.048mil,4203.228mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4228.819mil)(3391.181mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4228.819mil)(3391.181mil,4228.819mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4280mil)(3458.276mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (25.649mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4280mil)(3458.276mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4280mil)(3458.276mil,4280mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4305.591mil)(3395.59mil,4305.591mil) on Top Layer 
+   Violation between Clearance Constraint: (38.344mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4305.591mil)(3395.59mil,4305.591mil) on Top Layer 
+   Violation between Clearance Constraint: (10.585mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4331.181mil)(3371.181mil,4331.181mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4331.181mil)(3371.181mil,4331.181mil) on Top Layer 
+   Violation between Clearance Constraint: (26.078mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4356.772mil)(3346.772mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3290mil,4356.772mil)(3346.772mil,4356.772mil) on Top Layer 
+   Violation between Clearance Constraint: (32.055mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3327.362mil,4177.638mil)(3380mil,4125mil) on Top Layer 
+   Violation between Clearance Constraint: (36.175mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3327.362mil,4177.638mil)(3380mil,4125mil) on Top Layer 
+   Violation between Clearance Constraint: (32.782mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3340mil,3950mil)(3342.48mil,3947.52mil) on Top Layer 
+   Violation between Clearance Constraint: (33.151mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3342.48mil,3947.52mil)(3587.52mil,3947.52mil) on Top Layer 
+   Violation between Clearance Constraint: (38.361mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3346.772mil,4356.772mil)(3370mil,4380mil) on Top Layer 
+   Violation between Clearance Constraint: (23.771mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3365.048mil,4203.228mil)(3478.276mil,4090mil) on Top Layer 
+   Violation between Clearance Constraint: (29.489mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3365.048mil,4203.228mil)(3478.276mil,4090mil) on Top Layer 
+   Violation between Clearance Constraint: (34.945mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3371.181mil,4331.181mil)(3410mil,4370mil) on Top Layer 
+   Violation between Clearance Constraint: (36.061mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3371.181mil,4331.181mil)(3410mil,4370mil) on Top Layer 
+   Violation between Clearance Constraint: (37.43mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3380mil,4072.48mil)(3380mil,4125mil) on Top Layer 
+   Violation between Clearance Constraint: (35.078mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3395.59mil,4305.591mil)(3440mil,4350mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3541.724mil,4430mil)(3602.48mil,4430mil) on Top Layer 
+   Violation between Clearance Constraint: (36.455mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3541.724mil,4430mil)(3602.48mil,4430mil) on Top Layer 
+   Violation between Clearance Constraint: (37.985mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3541.724mil,4430mil)(3602.48mil,4430mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3541.724mil,4520mil)(3590mil,4520mil) on Top Layer 
+   Violation between Clearance Constraint: (38.866mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3541.724mil,4520mil)(3590mil,4520mil) on Top Layer 
+   Violation between Clearance Constraint: (38.678mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3542.48mil,4600mil)(3580mil,4600mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3549.243mil,4357.52mil)(3610mil,4357.52mil) on Top Layer 
+   Violation between Clearance Constraint: (35.037mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3549.243mil,4357.52mil)(3610mil,4357.52mil) on Top Layer 
+   Violation between Clearance Constraint: (36.553mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3610mil,4422.48mil)(3647.52mil,4422.48mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3727.52mil,4512.48mil)(3780mil,4512.48mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3732.48mil,4447.52mil)(3780mil,4447.52mil) on Top Layer 
+   Violation between Clearance Constraint: (33.447mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3860mil,4381.724mil)(3939.243mil,4381.724mil) on Top Layer 
+   Violation between Clearance Constraint: (33.447mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3860mil,4381.724mil)(3939.243mil,4381.724mil) on Top Layer 
+   Violation between Clearance Constraint: (31.614mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3860mil,4632.48mil)(3967.48mil,4632.48mil) on Top Layer 
+   Violation between Clearance Constraint: (38.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3860mil,4632.48mil)(3967.48mil,4632.48mil) on Top Layer 
+   Violation between Clearance Constraint: (24.898mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3868.346mil,4575.866mil)(3932.598mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (26.788mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3868.346mil,4575.866mil)(3932.598mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (17.641mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3970mil,4530mil)(3970mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (21.715mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3970mil,4530mil)(3970mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (39.128mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (3970mil,4530mil)(3970mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (26.053mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (4007.401mil,4567.599mil)(4007.401mil,4575.866mil) on Top Layer 
+   Violation between Clearance Constraint: (22.554mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (4007.401mil,4567.599mil)(4050mil,4525mil) on Top Layer 
+   Violation between Clearance Constraint: (16.308mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5010mil,2370mil)(5095.748mil,2455.748mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5013.74mil,2518.74mil)(5163.661mil,2518.74mil) on Top Layer 
+   Violation between Clearance Constraint: (11.284mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5013.74mil,2518.74mil)(5163.661mil,2518.74mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5057.244mil,2487.244mil)(5163.661mil,2487.244mil) on Top Layer 
+   Violation between Clearance Constraint: (11.527mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5080mil,2580mil)(5109.764mil,2550.236mil) on Top Layer 
+   Violation between Clearance Constraint: (27.392mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5091.26mil,2361.26mil)(5163.661mil,2361.26mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5095.748mil,2455.748mil)(5163.661mil,2455.748mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5109.764mil,2550.236mil)(5163.661mil,2550.236mil) on Top Layer 
+   Violation between Clearance Constraint: (14.216mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5210mil,2680mil)(5219.764mil,2670.236mil) on Top Layer 
+   Violation between Clearance Constraint: (39.899mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5210mil,2760mil)(5251.26mil,2718.74mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5219.764mil,2606.339mil)(5219.764mil,2670.236mil) on Top Layer 
+   Violation between Clearance Constraint: (29.687mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5235mil,1565mil)(5695mil,1565mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5251.26mil,2606.339mil)(5251.26mil,2718.74mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5251.26mil,2606.339mil)(5251.26mil,2718.74mil) on Top Layer 
+   Violation between Clearance Constraint: (11.496mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5251.26mil,2606.339mil)(5251.26mil,2718.74mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5282.756mil,2606.339mil)(5282.756mil,2829.724mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5408.74mil,1908.74mil)(5408.74mil,2273.661mil) on Top Layer 
+   Violation between Clearance Constraint: (11.284mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5408.74mil,1908.74mil)(5408.74mil,2273.661mil) on Top Layer 
+   Violation between Clearance Constraint: (25.805mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5430.748mil,2424.252mil)(5496.339mil,2424.252mil) on Top Layer 
+   Violation between Clearance Constraint: (10.106mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5432.061mil,2487.244mil)(5496.339mil,2487.244mil) on Top Layer 
+   Violation between Clearance Constraint: (25.805mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5432.061mil,2487.244mil)(5496.339mil,2487.244mil) on Top Layer 
+   Violation between Clearance Constraint: (36.595mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5496.339mil,2329.764mil)(5555.236mil,2329.764mil) on Top Layer 
+   Violation between Clearance Constraint: (25.805mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5496.339mil,2455.748mil)(5606.102mil,2455.748mil) on Top Layer 
+   Violation between Clearance Constraint: (34.836mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5555.236mil,2329.764mil)(5600mil,2285mil) on Top Layer 
+   Violation between Clearance Constraint: (37.629mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5670mil,3130mil)(5677.52mil,3122.48mil) on Top Layer 
+   Violation between Clearance Constraint: (37.63mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5670mil,3130mil)(5677.52mil,3122.48mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5677.52mil,3060mil)(5677.52mil,3122.48mil) on Top Layer 
+   Violation between Clearance Constraint: (36.655mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5677.52mil,3060mil)(5677.52mil,3122.48mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5690mil,2130mil)(5690mil,2188.276mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5690mil,2130mil)(5690mil,2188.276mil) on Top Layer 
+   Violation between Clearance Constraint: (33.842mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5690mil,2251.724mil)(5758.276mil,2251.724mil) on Top Layer 
+   Violation between Clearance Constraint: (38.227mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5728.276mil,2468.276mil)(5760mil,2500mil) on Top Layer 
+   Violation between Clearance Constraint: (39.754mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5742.48mil,3002.48mil)(5742.48mil,3060mil) on Top Layer 
+   Violation between Clearance Constraint: (39.754mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5742.48mil,3060mil)(5744.803mil,3062.323mil) on Top Layer 
+   Violation between Clearance Constraint: (35.671mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5744.803mil,3062.323mil)(5744.803mil,3130mil) on Top Layer 
+   Violation between Clearance Constraint: (37.283mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5744.803mil,3062.323mil)(5744.803mil,3130mil) on Top Layer 
+   Violation between Clearance Constraint: (39.202mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5770mil,3282.48mil)(5770mil,3419.843mil) on Top Layer 
+   Violation between Clearance Constraint: (39.232mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5770mil,3282.48mil)(5770mil,3419.843mil) on Top Layer 
+   Violation between Clearance Constraint: (39.202mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5770mil,3282.48mil)(5772.48mil,3280mil) on Top Layer 
+   Violation between Clearance Constraint: (39.232mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5770mil,3282.48mil)(5772.48mil,3280mil) on Top Layer 
+   Violation between Clearance Constraint: (30mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5810mil,2446.614mil)(5837.52mil,2474.134mil) on Top Layer 
+   Violation between Clearance Constraint: (22.886mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5828.276mil,2181.724mil)(5828.276mil,2260mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5828.276mil,2181.724mil)(5828.276mil,2260mil) on Top Layer 
+   Violation between Clearance Constraint: (29.961mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5837.52mil,2474.134mil)(5837.52mil,2540mil) on Top Layer 
+   Violation between Clearance Constraint: (33.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5837.52mil,2474.134mil)(5837.52mil,2540mil) on Top Layer 
+   Violation between Clearance Constraint: (22.886mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5891.724mil,2121.724mil)(5891.724mil,2260mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5891.724mil,2260mil)(5891.724mil,2341.724mil) on Top Layer 
+   Violation between Clearance Constraint: (39.961mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (5902.48mil,2454.134mil)(5902.48mil,2540mil) on Top Layer 
+   Violation between Clearance Constraint: (38.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6102.52mil,1647.52mil)(6180mil,1647.52mil) on Top Layer 
+   Violation between Clearance Constraint: (38.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6113.808mil,1712.48mil)(6180mil,1712.48mil) on Top Layer 
+   Violation between Clearance Constraint: (38.545mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6140mil,4140mil)(6140mil,4200mil) on Top Layer 
+   Violation between Clearance Constraint: (30.088mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6140mil,4140mil)(6165mil,4115mil) on Top Layer 
+   Violation between Clearance Constraint: (39.498mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6140mil,4140mil)(6165mil,4115mil) on Top Layer 
+   Violation between Clearance Constraint: (37.798mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6157.717mil,3890mil)(6165mil,3882.716mil) on Top Layer 
+   Violation between Clearance Constraint: (30.088mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6165mil,4097.283mil)(6165mil,4115mil) on Top Layer 
+   Violation between Clearance Constraint: (28.32mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6184.319mil,1708.162mil)(6413.81mil,1708.162mil) on Top Layer 
+   Violation between Clearance Constraint: (33.447mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6203.447mil,4156.553mil)(6203.447mil,4200mil) on Top Layer 
+   Violation between Clearance Constraint: (35.932mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6203.447mil,4156.553mil)(6215mil,4145mil) on Top Layer 
+   Violation between Clearance Constraint: (37.798mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6215mil,4097.283mil)(6215mil,4145mil) on Top Layer 
+   Violation between Clearance Constraint: (38.276mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6215mil,4097.283mil)(6215mil,4145mil) on Top Layer 
+   Violation between Clearance Constraint: (37.798mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6265mil,3845mil)(6265mil,3882.716mil) on Top Layer 
+   Violation between Clearance Constraint: (37.798mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6265mil,4045mil)(6265mil,4097.283mil) on Top Layer 
+   Violation between Clearance Constraint: (37.863mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6265mil,4045mil)(6265mil,4097.283mil) on Top Layer 
+   Violation between Clearance Constraint: (32.436mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6298.276mil,4200mil)(6298.276mil,4258.276mil) on Top Layer 
+   Violation between Clearance Constraint: (39.59mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,3840mil)(6327.52mil,3827.48mil) on Top Layer 
+   Violation between Clearance Constraint: (22.598mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4045mil)(6315mil,4097.283mil) on Top Layer 
+   Violation between Clearance Constraint: (23.752mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4045mil)(6315mil,4097.283mil) on Top Layer 
+   Violation between Clearance Constraint: (24.67mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4045mil)(6392.48mil,3967.52mil) on Top Layer 
+   Violation between Clearance Constraint: (25.179mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4045mil)(6392.48mil,3967.52mil) on Top Layer 
+   Violation between Clearance Constraint: (32.798mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4097.283mil)(6361.724mil,4144.007mil) on Top Layer 
+   Violation between Clearance Constraint: (33.276mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6315mil,4097.283mil)(6361.724mil,4144.007mil) on Top Layer 
+   Violation between Clearance Constraint: (38.348mil < 40mil) Between Region (0 hole(s)) Top Layer And Track (6327.52mil,3790mil)(6327.52mil,3827.48mil) on Top Layer 
+   Violation between Clearance Constraint: (27.777mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (2760mil,3260mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (33.392mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (2760mil,3260mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (37.282mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (2760mil,3260mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (35.918mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (2762.48mil,3122.48mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (31.696mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3170mil,4440mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (24.836mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3310mil,4005mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (38.312mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3310mil,4005mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (27.565mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3340mil,3950mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (36.255mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3340mil,3950mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (34.703mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3410mil,4370mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (32.49mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3727.52mil,4512.48mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (20.414mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3970mil,4530mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (35.303mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (3970mil,4530mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (19.895mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (5210mil,2680mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (12.624mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (5432.061mil,2487.244mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (31.126mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (5758.276mil,2251.724mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (35.51mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (5760mil,2500mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (34.595mil < 40mil) Between Region (0 hole(s)) Top Layer And Via (5828.276mil,2181.724mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (9.232mil < 10mil) Between Track (2958.819mil,4228.819mil)(3062.835mil,4228.819mil) on Top Layer And Via (2973.228mil,4203.228mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (5.064mil < 10mil) Between Track (5190mil,2490mil)(5708.283mil,3008.284mil) on Bottom Layer And Via (5740mil,3000mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (9.839mil < 10mil) Between Track (5401.106mil,2518.894mil)(5496.185mil,2518.894mil) on Top Layer And Via (5432.061mil,2487.244mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (5.064mil < 10mil) Between Track (5708.283mil,3008.284mil)(5708.283mil,3013.137mil) on Bottom Layer And Via (5740mil,3000mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (5.064mil < 10mil) Between Track (5731.717mil,3031.716mil)(6010mil,3310mil) on Bottom Layer And Via (5740mil,3000mil) from Top Layer to Bottom Layer 
+Rule Violations :493
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-MH1(1235.207mil,4792.809mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-MH2(6825.758mil,4792.809mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-MH3(1235.207mil,1170.762mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-MH4(6825.758mil,1170.762mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad J*1-MNT2(6665mil,1910mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad J*1-MTN1(6670mil,1460mil) on Multi-Layer Actual Hole Size = 137.795mil
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+   Violation between Height Constraint: Small Component *-Inductor_THT_33uH (3360mil,3320mil) on Top Layer Actual Height = 1040mil
+Rule Violations :1
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:02
