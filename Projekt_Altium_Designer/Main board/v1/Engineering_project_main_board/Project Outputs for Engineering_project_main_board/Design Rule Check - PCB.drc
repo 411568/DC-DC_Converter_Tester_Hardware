@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Projekt_Altium_Designer\Main board\v1\Engineering_project_main_board\PCB.PcbDoc
-Date     : 7/23/2024
-Time     : 5:55:18 PM
+Date     : 9/20/2024
+Time     : 12:23:23 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -152,4 +152,4 @@ Rule Violations :0
 
 Violations Detected : 98
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
