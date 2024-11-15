@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" progarch="x64" ID="1719" progversion="9.10g" rev="2" xsi:schemaLocation="http://simetrix.co.uk/schemas/application/waveform https://simetrix.co.uk/schemas/application/waveform.xsd" xmlns="http://simetrix.co.uk/schemas/application/waveform/" version="1.00">
+ <SharedAxis ID="1722">
+  <Property name="GUID" value="{a2ababb6-64ed-4c97-9f65-b3263645ef2b}"/>
+ </SharedAxis>
+ <Grid ID="1725">
+  <Axis subtype="X" ID="1726">
+   <Property name="AutoLimit" value="On"/>
+   <Property name="Delta" value="0.0"/>
+   <Property name="ExpandToFitLabel" value="true"/>
+   <Property name="Grad" value="Log"/>
+   <Property name="GUID" value="{eb3b98d5-e326-49a6-8ce4-39da48be36f2}"/>
+   <Property name="HideLines" value="false"/>
+   <Property name="Label" value="%DefaultLabel%"/>
+   <Property type="real" name="Max" value="AAAAAICELkE=" ascii_value="1000000"/>
+   <Property type="real" name="Min" value="AAAAAABAj0A=" ascii_value="1000"/>
+   <Property name="ProbeId" value="Hz#$auto$#$default$#log"/>
+   <Property name="SharedID" value="1722"/>
+   <Property name="Unit" value="%DefaultUnit%"/>
+  </Axis>
+  <Axis subtype="Y" ID="1727">
+   <Property name="AutoLimit" value="On"/>
+   <Property name="Delta" value="0.0"/>
+   <Property name="ExpandToFitLabel" value="true"/>
+   <Property name="Grad" value="Lin"/>
+   <Property name="GUID" value="{cd45d7b9-a977-4197-90c7-3998a2742e5a}"/>
+   <Property name="HideLines" value="false"/>
+   <Property name="Label" value="%DefaultLabel%"/>
+   <Property type="real" name="Max" value="dddrXDSnWkA=" ascii_value="106.612570863"/>
+   <Property type="real" name="Min" value="7xTJnvVcNcA=" ascii_value="-21.3631228677"/>
+   <Property name="ProbeId" value="degrees#$auto$#$default$#lin"/>
+   <Property name="SharedID" value="1727"/>
+   <Property name="Unit" value="degrees"/>
+  </Axis>
+  <Curve ID="1728">
+   <CurveData ID="1729">
+    <Property name="Curve" value="1728"/>
+    <Property name="GUID" value="{83791615-ac20-47a2-ad2c-05afb1a0bfb2}"/>
+    <Property name="LineStyle" value="auto"/>
+   </CurveData>
+   <Property name="Alpha" value="75"/>
+   <Property name="CreateTime" value="1731706038910"/>
+   <Property name="DisplayType" value="analog"/>
+   <Property name="ForceFastRender" value="false"/>
+   <Property name="GUID" value="{63554da2-aa69-4238-9b2b-d78eacaf98b3}"/>
+   <Property name="Hidden" value="false"/>
+   <Property name="Highlight" value="false"/>
+   <Property name="HighlightColour" value="#ff00ff"/>
+   <Property name="HighlightedDivisions" value=""/>
+   <Property name="Label" value="%DefaultLabel%"/>
+   <Property name="LineStyle" value="solid"/>
+   <Property name="MeasureSpec" value=""/>
+   <Property name="Name" value="Phase"/>
+   <Property name="ProbeGUID" value="{}"/>
+   <Property name="ProbeInst" value="ph(:18/:23).Phase#ac##"/>
+   <Property name="ProbePersistence" value="0"/>
+   <Property name="RGBColour" value="255"/>
+   <Property name="Selected" value="false"/>
+   <Property name="Sequence" value="1"/>
+   <Property name="ShortLabel" value="%DefaultShortLabel%"/>
+   <Property name="ShowPoints" value="false"/>
+   <Property name="Suffix" value=""/>
+   <Property name="UserPersistence" value="-1"/>
+   <Property name="UserProbeId" value=""/>
+   <Property name="UseSequenceColour" value="true"/>
+   <Property name="Visible" value="true"/>
+   <Property name="XAxis" value="1726"/>
+   <Property name="XUnit" value="Hz"/>
+   <Property name="YAxis" value="1727"/>
+   <Property name="YUnit" value="degrees"/>
+   <CurveVector SourceName="simplis_ac8" XExpression="freq" SweepType="None" XUnitsOverride="0" Expression="ph(:18/:23)" YUnits="degrees" AnalysisName="Small signal AC" XYData="0" YUnitsOverride="1" XUnits="Hz">
+    <SxData sxid="0" version="82"><![CDATA[
+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
+]]></SxData>
+   </CurveVector>
+  </Curve>
+  <Axis subtype="Y" ID="1730">
+   <Property name="AutoLimit" value="On"/>
+   <Property name="Delta" value="0.0"/>
+   <Property name="ExpandToFitLabel" value="true"/>
+   <Property name="Grad" value="Lin"/>
+   <Property name="GUID" value="{d336cf66-b148-4b0e-bc18-d70d513f777d}"/>
+   <Property name="HideLines" value="false"/>
+   <Property name="Label" value="%DefaultLabel%"/>
+   <Property type="real" name="Max" value="Llg4DtbCQEA=" ascii_value="33.5221574569"/>
+   <Property type="real" name="Min" value="g/tNumiKSMA=" ascii_value="-49.0813210374"/>
+   <Property name="ProbeId" value="dB#$auto$#$default$#lin"/>
+   <Property name="SharedID" value="1730"/>
+   <Property name="Unit" value="dB"/>
+  </Axis>
+  <Curve ID="1731">
+   <CurveData ID="1732">
+    <Property name="Curve" value="1731"/>
+    <Property name="GUID" value="{62c0b292-0a62-4a4d-bfcc-b07ec82c28bc}"/>
+    <Property name="LineStyle" value="auto"/>
+   </CurveData>
+   <Property name="Alpha" value="75"/>
+   <Property name="CreateTime" value="1731706038915"/>
+   <Property name="DisplayType" value="analog"/>
+   <Property name="ForceFastRender" value="false"/>
+   <Property name="GUID" value="{e63c1461-6746-4772-ae1c-dc54f01b664c}"/>
+   <Property name="Hidden" value="false"/>
+   <Property name="Highlight" value="false"/>
+   <Property name="HighlightColour" value="#ff00ff"/>
+   <Property name="HighlightedDivisions" value=""/>
+   <Property name="Label" value="%DefaultLabel%"/>
+   <Property name="LineStyle" value="solid"/>
+   <Property name="MeasureSpec" value=""/>
+   <Property name="Name" value="Gain"/>
+   <Property name="ProbeGUID" value="{}"/>
+   <Property name="ProbeInst" value="db(:18/:23).Gain#ac##"/>
+   <Property name="ProbePersistence" value="0"/>
+   <Property name="RGBColour" value="32768"/>
+   <Property name="Selected" value="false"/>
+   <Property name="Sequence" value="2"/>
+   <Property name="ShortLabel" value="%DefaultShortLabel%"/>
+   <Property name="ShowPoints" value="false"/>
+   <Property name="Suffix" value=""/>
+   <Property name="UserPersistence" value="-1"/>
+   <Property name="UserProbeId" value=""/>
+   <Property name="UseSequenceColour" value="true"/>
+   <Property name="Visible" value="true"/>
+   <Property name="XAxis" value="1726"/>
+   <Property name="XUnit" value="Hz"/>
+   <Property name="YAxis" value="1730"/>
+   <Property name="YUnit" value="dB"/>
+   <CurveVector SourceName="simplis_ac8" XExpression="freq" SweepType="None" XUnitsOverride="0" Expression="db(:18/:23)" YUnits="dB" AnalysisName="Small signal AC" XYData="0" YUnitsOverride="1" XUnits="Hz">
+    <SxData sxid="1" version="82"><![CDATA[
+AQCwH67v4AIAAAcAAABWZWNEYXRhAQBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAA
+AAAALlg4DtbCQEDZa0ndNQdAQP18QtxylT5AIDcXUJ4bPUDJNGrKyKE7QEw5oU/MKDpAF39CjoOxOEBl
+RQ3Uyjw3QB2GmkyAyzVAaQQhQINeNEBoWrUYsvYyQOe1yQ7nlDFAQFiehPM5MEAWHWKVNM0tQHDNHn8S
+NytARjvz4qWyKEDTBgIV0kAmQM9KjqYw4iNAhgvZ6w2XIUAhWp2S1b4eQHWf9awHdhpAfOQKU7pSFkCH
+D4oRo1MSQKKn07WN7gxA1p7P5jh4BUBGt4a4sYL8P9ZAeIZkHe0/ZP68HUsFsT9m9w9Mg/bnv2E+EpiK
+lfi/T8twFFBfAsBOjP7OrToIwLUZhDvJ2w3ACBLeIJygEcC8dXI7uzQUwOKK7HmVqRbA6VRs8br+GMAh
+ZpNRIDQbwGF/cw9FSh3AVHeZMVRCH8Ciiq5BHo8gwIaooOBecCHAcv4FxLRGIsDODzQYTBQjwOqeZn2p
+2yPAKojb45qfJMCymzl+JWMlwCQrMh9yKSbAwC3NSbn1JsAwVwgmBdMnwArs2yJntSjAgkq39BqnKcAq
+JbRp9aoqwACKr8SkwyvA7//BLFLuLMDHUFIlLjguwLTN13PXni/AAVHVbkSVMMBHv0iLqmoxwOi+c2nr
+UzLArbAN3DhYM8B85vWqlX40wEwqmcX+0DXALa68aUFlN8D/iat/mms5wNuA2OVbNzzA2wTcaX5UQMCi
+OYRSd15FwNqwvBjM5UXAfe/0U2W2QcCIx11gAo5AwNHDxqRbbkDAhmgfFxPqQMCulQJNoABCwGrOrzb+
+UkTAg/tNumiKSMAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA
+AAAAAAAAAAD//////////woAAAA6JCRUcmFjZTE2BQAw1WT44AIAAAAAAAAAAAAA//////////8EAAAA
+ZnJlcQ==
+]]></SxData>
+   </CurveVector>
+  </Curve>
+  <Property name="GridType" value="Norm"/>
+  <Property name="GUID" value="{667025e2-c3ca-449b-83ff-64c06c68a807}"/>
+  <Property name="ProbeId" value=""/>
+  <Property name="VertOrder" value="6"/>
+ </Grid>
+ <Property name="AcceptNewProbes" value=""/>
+ <Property name="CursorStatusDisplay" value="Graph"/>
+ <Property name="GroupTitle" value="C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Symulacje\MP9928\Symulacje_od_producenta\MP9928_Steadystate_20190919.sxsch"/>
+ <Property name="GUID" value="{ccdcc9a0-4cf3-4b64-be0f-4317e3a11519}"/>
+ <Property name="IsClosing" value="false"/>
+ <Property name="MainCursor" value="0"/>
+ <Property name="Path" value="C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Symulacje\MP9928\Symulacje_od_producenta\MP9928_Steadystate_20190919.sxgpx"/>
+ <Property name="ProbeId" value="default#C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Symulacje\MP9928\Symulacje_od_producenta\MP9928_Steadystate_20190919.sxsch#ac"/>
+ <Property name="RefCursor" value="0"/>
+ <Property name="SmallCursor" value="1724"/>
+ <Property name="SourceGroup" value="simplis_ac8"/>
+ <Property name="TabTitle" value="%SourceGroup% %FirstCurve:Label%"/>
+ <Property name="TitleBar" value="%SourceGroup% (%GroupTitle%)"/>
+ <Layout bottomoffset="13" leftoffset="13" rightoffset="13" topoffset="13"/>
+</Graph>

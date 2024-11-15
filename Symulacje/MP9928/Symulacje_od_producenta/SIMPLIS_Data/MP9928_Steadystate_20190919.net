@@ -1,21 +1,15 @@
-* C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Symulacje\MP9928\Moje_symulacje\MP9928_SteadyState.sxsch
+* C:\Users\User\Desktop\Engineering project hardware\DC-DC_Converter_Tester_Hardware\Symulacje\MP9928\Symulacje_od_producenta\MP9928_Steadystate_20190919.sxsch
 *#SIMETRIX
-.ac DEC 25 1k 1Meg
-.options
+.AC DEC 25 1k 1Meg
+.OPTIONS
 + PSP_NPT=10001
-+ POP_ITRMAX=20
-+ POP_OUTPUT_CYCLES=5
-+ SNAPSHOT_INTVL=0
-+ MIN_AVG_TOPOLOGY_DUR=1a
-+ AVG_TOPOLOGY_DUR_MEASUREMENT_WINDOW=128
-.pop
-+ TRIG_GATE={TRIG_GATE}
+.POP
++ TRIG_GATE=X$U1.X$UBB_OSC.X$UBB0101.X$UBB9314.!DCOMP
 + TRIG_COND=0_TO_1
-+ MAX_PERIOD=1m
-+ CONVERGENCE=10f
++ MAX_PERIOD=100u
 + CYCLES_BEFORE_LAUNCH=500
-+ TD_RUN_AFTER_POP_FAILS=-1
-.tran 10m 0
+*.TRAN 1.1m 0
+
 
 .SUBCKT MP9928  102 81 85 98 100 101 79 95 86 78 105 99 89 94 83 106 103 104
 .NODE_MAP FAULT 73
@@ -1493,20 +1487,25 @@
 
 
 
-C1 28 0 10p IC=0
-C2 30 31 22n IC=0
-CBST 13 11 100n IC=0
-X$CIN 9 0 ELEC_CAP_L13 vars: LEVEL=2 CC=100u RSH_CC=1Meg IC=0 RESR=1m LESL=0 USEIC=1
-X$COUTX 20 0 ELEC_CAP_L13 vars: LEVEL=2 CC=1m RSH_CC=1Meg IC=5 RESR=2m LESL=0 USEIC=1
-X$COUTY 20 0 ELEC_CAP_L13 vars: LEVEL=1 CC=10u RSH_CC=1Meg IC=5 RESR=5m LESL=0 USEIC=1
-CSS 29 0 10n IC=1.2
-V$IPROBE11 19 15 0.0
+C2 29 30 680p IC=0
+CBST 9 11 100n IC=0
+X$CIN 14 0 ELEC_CAP_L13 vars: LEVEL=2 CC=10u RSH_CC=1Meg IC=0 RESR=5m LESL=0 USEIC=1
+X$COUTX 25 0 ELEC_CAP_L13 vars: LEVEL=2 CC=220u RSH_CC=1Meg IC=5 RESR=20m LESL=0 USEIC=1
+X$COUTY 18 0 ELEC_CAP_L13 vars: LEVEL=1 CC=22u RSH_CC=1Meg IC=5 RESR=5m LESL=0 USEIC=1
+CSS 28 0 10n IC=1.2
+V$IPROBE11 16 17 0.0
 .PRINT I(V$IPROBE11)
-.GRAPH IPROBE11#P axisType="auto" persistence=1 graphName="OUT" curveLabel="I_LOUT" analysis="tran|pop" xLog="auto" yLog="lin" colour=43520  nowarn=true' GUID="89bdd54b-5851-4357-894d-1298b10b92ab" disabled=false 
-V$IPROBE9 20 21 0.0
+.GRAPH IPROBE11#P axisType="auto" persistence=1 graphName="OUT" curveLabel="I_LOUT" analysis="tran|pop" xLog="auto" yLog="lin" colour=43520  nowarn=true' GUID="38b36c85-fecf-4373-9737-e66b37af205f" disabled=false 
+V$IPROBE13 18 25 0.0
+.PRINT I(V$IPROBE13)
+.GRAPH IPROBE13#P axisType="auto" persistence=1 graphName="OUT" curveLabel="ICOUT" analysis="tran|pop" xLog="auto" yLog="lin"  nowarn=true' GUID="b02544cb-f66e-494d-b9e3-35e1ea41efe2" disabled=false 
+V$IPROBE2 7 14 0.0
+.PRINT I(V$IPROBE2)
+.GRAPH IPROBE2#P axisType="auto" persistence=1 graphName="input" curveLabel="I_CINX" analysis="tran|pop" xLog="auto" yLog="lin"  nowarn=true' GUID="bd58717e-bbef-400e-ae29-ef9c9761e22a" disabled=false 
+V$IPROBE9 18 19 0.0
 .PRINT I(V$IPROBE9)
-.GRAPH IPROBE9#P axisType="auto" persistence=1 graphName="OUT" curveLabel="ILOAD" analysis="tran|pop" xLog="auto" yLog="lin"  nowarn=true' GUID="ac4b98a7-cfb8-4bcc-a17a-11c9e1ea2cc0" disabled=false 
-X$LOUT 11 19 LOUT$TP_LOSSYL vars: IND=22u RSHUNT=1Meg RSERIES=100m IC=5
+.GRAPH IPROBE9#P axisType="auto" persistence=1 graphName="OUT" curveLabel="ILOAD" analysis="tran|pop" xLog="auto" yLog="lin"  nowarn=true' GUID="d4270769-1a08-4b75-8765-c57e952eeba7" disabled=false 
+X$LOUT 11 16 LOUT$TP_LOSSYL vars: IND=22u RSHUNT=1Meg RSERIES=20m IC=5
 .SUBCKT LOUT$TP_LOSSYL 1 2
 .NODE_MAP P 1
 .NODE_MAP N 2
@@ -1514,33 +1513,42 @@ L1 1 3 {IND} IC={IC}
 RSHUNT 1 3 {RSHUNT}
 RSERIES 2 3 {RSERIES}
 .ENDS LOUT$TP_LOSSYL
-.PRINT V(30)
-.GRAPH :30 axisType="auto" persistence=-1 graphName="IC" curveLabel="COMP" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="17f2ddbc-69aa-469a-93fa-e44c6f7e8052" disabled=false PROBEREF=Probe1  
+.PRINT V(29)
+.GRAPH :29 axisType="auto" persistence=-1 graphName="IC" curveLabel="COMP" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="9675a028-f28c-4a90-9b6c-334bcbba8944" disabled=false PROBEREF=Probe1  
+.PRINT V(27)
+.GRAPH :27 axisType="auto" persistence=1 graphName="IC" curveLabel="VFB" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="a4b3fac4-2cf3-44fc-9f3b-b92ce4a202db" disabled=false PROBEREF=Probe11  
+.PRINT V(11)
+.GRAPH :11 axisType="auto" persistence=1 graphName="IC" curveLabel="VSW" analysis="tran|pop" xLog="auto" yLog="auto" colour=16711680  nowarn=true' GUID="c188c1a5-c22b-4d51-b03b-e0cc6ba2f889" disabled=false PROBEREF=Probe12  
+.PRINT V(8)
+.GRAPH :8 axisType="auto" persistence=1 graphName="IC" curveLabel="VBST" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="d6a83ec2-77a0-4684-9b34-6ccf09c55a7a" disabled=false PROBEREF=Probe13  
+.PRINT V(18)
+.GRAPH :18 axisType="grid" persistence=1 graphName="OUT" curveLabel="VOUT" analysis="tran|pop" xLog="auto" yLog="auto" colour=16777045  nowarn=true' GUID="d5623c65-7b94-4e32-8b8e-7aa868221ecc" disabled=false PROBEREF=Probe14  
 .PRINT V(28)
-.GRAPH :28 axisType="auto" persistence=1 graphName="IC" curveLabel="VFB" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="92685c8e-aee2-4e95-b8ab-702c2f2d01b7" disabled=false PROBEREF=Probe11  
-.PRINT V(20)
-.GRAPH :20 axisType="grid" persistence=1 graphName="OUT" curveLabel="VOUT" analysis="tran|pop" xLog="auto" yLog="auto" colour=16777045  nowarn=true' GUID="7020aabc-35cb-4cdb-9bc9-9883d58dce27" disabled=false PROBEREF=Probe14  
-.PRINT V(15)
-.PRINT V(25)
-.GRAPH "db(:15/:25)" Curvelabel="Gain" nowarn=true yunit="dB" complete=True analysis="ac" axisname=bodemag ylog=lin  persistence=0
-.GRAPH "ph(:15/:25)" Curvelabel="Phase" nowarn=true yunit="degrees" complete=True analysis="ac"  axisname=bodephase ylog=lin  persistence=0
-X$Q1 9 16 11 PWR_NMOS_SPICE_V2 vars: IDMAX=2 VDMAX=30.3962 LEVEL=0 TEMP=25 RDSon=11.7061m VT0=2.61782 Gain=10.2797 XDm0=-30.3962 YDm0=-82.1516n XDm1=174.051m YDm1=10u XDm2=418.594m YDm2=129.311m XDm3=452.196m YDm3=431.038m XDm4=478.85m YDm4=1 XDm5=505.504m YDm5=2 BDNSEG=3 CGS=1.34291n QCDSX0=0 QCDSY0=0 QCDSX1=1.04189 QCDSY1=797.936p QCDSX2=5.36366 QCDSY2=2.78806n QCDSX3=10.6905 QCDSY3=4.45211n QCDSX4=26.7264 QCDSY4=7.97936n QCDGX0=0 QCDGY0=0 QCDGX1=931.47m QCDGY1=1.23667n QCDGX2=5.21228 QCDGY2=4.36422n QCDGX3=10.6905 QCDGY3=6.95217n QCDGX4=26.7264 QCDGY4=12.3667n
-X$Q2 11 23 0 PWR_NMOS_SPICE_V2 vars: IDMAX=2 VDMAX=30.3962 LEVEL=0 TEMP=25 RDSon=4.78569m VT0=2.00833 Gain=12.8404 XDm0=-30.3962 YDm0=-121.673n XDm1=410.288m YDm1=10u XDm2=656.899m YDm2=146.363m XDm3=688.273m YDm3=487.876m XDm4=707.374m YDm4=1 XDm5=726.474m YDm5=2 BDNSEG=3 CGS=1.96063n QCDSX0=0 QCDSY0=0 QCDSX1=1.42191 QCDSY1=2.02184n QCDSX2=6.12881 QCDSY2=6.69008n QCDSX3=10.8411 QCDSY3=10.4044n QCDSX4=27.1028 QCDSY4=20.2184n QCDGX0=0 QCDGY0=0 QCDGX1=990.146m QCDGY1=322.112p QCDGX2=5.31783 QCDGY2=1.13876n QCDGX3=10.8411 QCDGY3=1.81791n QCDGX4=27.1028 QCDGY4=3.22112n
-R1 20 15 1m
-R2 13 10 0
-R3 28 32 3.303k
-R4 18 0 40k
-REN 14 9 100k
-RFB 0 28 1.268k
-RFB1 0 31 51k
-RFREQ 17 0 399k
-RFT 25 28 22k
-RLOAD 21 0 6.5
-RPG 26 27 100k
-X$U1 9 10 11 28 29 14 0 30 18 26 27 0 16 23 17 22 15 20 MP9928
-V1 24 0 24
-V2 32 0 0
-VAC 25 20 AC 1 0
-R$VINESR 9 24 1m
-X1 11 12 PERIODIC_OP vars: VREF=200m VOL=0 VOH=5 HYSTWD=50m DIVIDE_BY_2=0 IC=0 DELAY=0 TRIG_COND='0_TO_1'
+.GRAPH :28 axisType="auto" persistence=1 graphName="IC" curveLabel="VSS" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="1addb368-17a6-4e86-a988-1e5597cb0de9" disabled=false PROBEREF=Probe2  
+.PRINT V(26)
+.GRAPH :26 axisType="auto" persistence=1 graphName="IC" curveLabel="PG" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="7c43e977-24c4-41a0-8bfd-ffc826bd9879" disabled=false PROBEREF=Probe3  
+.PRINT V(24)
+.GRAPH :24 axisType="auto" persistence=1 graphName="IC" curveLabel="VCC" analysis="tran|pop" xLog="auto" yLog="auto"  nowarn=true' GUID="c356333c-ac95-40f1-b062-16aa4fb8c93a" disabled=false PROBEREF=Probe4  
+.PRINT V(7)
+.GRAPH :7 axisType="grid" persistence=1 graphName="input" curveLabel="VIN" analysis="tran|pop" xLog="auto" yLog="auto" colour=16711935  nowarn=true' GUID="ba60afa1-77eb-4477-8f81-8f9bf7c34c39" disabled=false PROBEREF=Probe5  
+.PRINT V(18)
+.PRINT V(23)
+.GRAPH "db(:18/:23)" Curvelabel="Gain" nowarn=true yunit="dB" complete=True analysis="ac" axisname=bodemag ylog=lin  persistence=0
+.GRAPH "ph(:18/:23)" Curvelabel="Phase" nowarn=true yunit="degrees" complete=True analysis="ac"  axisname=bodephase ylog=lin  persistence=0
+X$Q1 7 12 11 PWR_NMOS_SPICE_V2 vars: IDMAX=2 VDMAX=30.3962 LEVEL=0 TEMP=25 RDSon=11.7061m VT0=2.61782 Gain=10.2797 XDm0=-30.3962 YDm0=-82.1516n XDm1=174.051m YDm1=10u XDm2=418.594m YDm2=129.311m XDm3=452.196m YDm3=431.038m XDm4=478.85m YDm4=1 XDm5=505.504m YDm5=2 BDNSEG=3 CGS=1.34291n QCDSX0=0 QCDSY0=0 QCDSX1=1.04189 QCDSY1=797.936p QCDSX2=5.36366 QCDSY2=2.78806n QCDSX3=10.6905 QCDSY3=4.45211n QCDSX4=26.7264 QCDSY4=7.97936n QCDGX0=0 QCDGY0=0 QCDGX1=931.47m QCDGY1=1.23667n QCDGX2=5.21228 QCDGY2=4.36422n QCDGX3=10.6905 QCDGY3=6.95217n QCDGX4=26.7264 QCDGY4=12.3667n
+X$Q2 11 21 0 PWR_NMOS_SPICE_V2 vars: IDMAX=2 VDMAX=30.3962 LEVEL=0 TEMP=25 RDSon=4.78569m VT0=2.00833 Gain=12.8404 XDm0=-30.3962 YDm0=-121.673n XDm1=410.288m YDm1=10u XDm2=656.899m YDm2=146.363m XDm3=688.273m YDm3=487.876m XDm4=707.374m YDm4=1 XDm5=726.474m YDm5=2 BDNSEG=3 CGS=1.96063n QCDSX0=0 QCDSY0=0 QCDSX1=1.42191 QCDSY1=2.02184n QCDSX2=6.12881 QCDSY2=6.69008n QCDSX3=10.8411 QCDSY3=10.4044n QCDSX4=27.1028 QCDSY4=20.2184n QCDGX0=0 QCDGY0=0 QCDGX1=990.146m QCDGY1=322.112p QCDGX2=5.31783 QCDGY2=1.13876n QCDGX3=10.8411 QCDGY3=1.81791n QCDGX4=27.1028 QCDGY4=3.22112n
+R1 18 17 20m
+R2 9 8 0
+R4 15 0 40k
+REN 10 7 100k
+RFB 0 27 12k
+RFB1 0 30 51k
+RFREQ 13 0 39k
+RFT 23 27 63.4k
+RLOAD 19 0 2
+RPG 24 26 100k
+X$U1 7 8 11 27 28 10 0 29 15 24 26 0 12 21 13 20 17 18 MP9928
+V1 22 0 24
+VAC 23 18 AC 1 0
+R$VINESR 7 22 1m
 .end

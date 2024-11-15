@@ -1,13 +1,13 @@
->>> Wed May 22 20:22:58 2024, requesting 1 copy of simplis, maintenance version 2022.1101,  GRANTED.
->>> Wed May 22 20:22:58 2024, requesting 1 copy of periodic_op, maintenance version 2022.1101,  GRANTED.
+>>> Sat Nov  9 22:55:26 2024, requesting 1 copy of simplis, maintenance version 2022.1101,  GRANTED.
+>>> Sat Nov  9 22:55:26 2024, requesting 1 copy of periodic_op, maintenance version 2022.1101,  GRANTED.
 	*** POP version: 9.100500
 	*** Required POP convergence: 1.000000e-14
 	*** POP analysis succeeded after 2 iteration(s).
 	*** POP convergence when exiting the POP analysis: 2.362796e-16.
->>> Wed May 22 20:23:01 2024, returning  1 copy of periodic_op.
->>> Wed May 22 20:23:01 2024, requesting 1 copy of freq_anlys, maintenance version 2022.1101,  GRANTED.
->>> Wed May 22 20:23:11 2024, returning  1 copy of freq_anlys.
->>> Wed May 22 20:23:11 2024, requesting 1 copy of tran_sim, maintenance version 2022.1101,  GRANTED.
->>> Wed May 22 20:23:13 2024, returning  1 copy of tran_sim.
+>>> Sat Nov  9 22:55:31 2024, returning  1 copy of periodic_op.
+>>> Sat Nov  9 22:55:31 2024, requesting 1 copy of freq_anlys, maintenance version 2022.1101,  GRANTED.
+>>> Sat Nov  9 22:55:42 2024, returning  1 copy of freq_anlys.
+>>> Sat Nov  9 22:55:42 2024, requesting 1 copy of tran_sim, maintenance version 2022.1101,  GRANTED.
+>>> Sat Nov  9 22:55:43 2024, returning  1 copy of tran_sim.
 	*** Total number of topologies: 111
->>> Wed May 22 20:23:13 2024, returning  1 copy of simplis.
+>>> Sat Nov  9 22:55:43 2024, returning  1 copy of simplis.

@@ -1,0 +1,21 @@
+$$$ 1 9991 14    simplis  DATA FOR PLOTTING,  Fri Nov 15 22:27:17 2024     
+INPUT FILE: C:/Users/User/Desktop/Engineering project hardware/DC-DC_Converter_Tester_Hardware/Symulacje/MP9928/Symulacje_od_producenta/SIMPLIS_Data/MP9928_Steadystate_20190919.deck
+POP Analysis
+9991 DATA PTS                 
+14 VARIABLES                                      
+0   TIME
+1   I(V$IPROBE11#P)
+2   I(V$IPROBE13#P)
+3   I(V$IPROBE2#P)
+4   I(V$IPROBE9#P)
+5   V(29)
+6   V(27)
+7   V(11)
+8   V(8)
+9   V(18)
+10  V(28)
+11  V(26)
+12  V(24)
+13  V(7)
+14  V(23)
+
